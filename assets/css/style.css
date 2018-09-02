@@ -52,11 +52,11 @@ footer {
 
 .navbar-brand {
     background-color: #4aaaa5; 
-    padding: 10px 30px 10px 30px;
+    padding: 10px 10px 10px 10px;
     text-align: center; 
     text-decoration: none;
     font-size: 24px;
-    margin: 0px 20px 0px 20px;
+    margin: 0 auto;
     text-align: center;
 }
 

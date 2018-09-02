@@ -1,0 +1,99 @@
+body {
+    background-image: url(https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/762800/2a5f9d6e1c74a3e820814cd3bb4ad89c4638a4b4.jpg); 
+    background-size: cover;
+    font-family: "Georgia", 'Times New Roman', Times, serif;
+    line-height: 150%;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 0;
+    padding: 10px;
+    font-weight: bold;
+}
+
+h2 {
+    padding-bottom: 20px;
+    border-bottom: 2px solid #dddddd;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    line-height: 180%;
+    font-size: 16px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 5px;
+    line-height: 60px;
+    background-color: #666666;
+    text-align: center;
+    border-top: 10px solid #4aaaa5;
+}
+
+.navbar {
+    width: 100%;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin: 0 auto;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5; 
+    padding: 10px 30px 10px 30px;
+    text-align: center; 
+    text-decoration: none;
+    font-size: 24px;
+    margin: 0px 20px 0px 20px;
+    text-align: center;
+}
+
+.bodyWrapper {
+    background-color: white; 
+    border-radius: 5px; 
+    border: 2px solid #dddddd;  
+    height: auto; 
+    padding: 10px 10px; 
+    margin-bottom: 100px; 
+    overflow: hidden;
+    max-width: 960px;
+}
+
+.bioImage {
+    margin: 7px 20px 10px 0px;;
+}
+
+.contactMeWrapper {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+    margin: 20px 10px;
+}
+
+.card-title {
+    position: absolute;
+    top: 70%;
+    left: 0;
+    padding: 20px 20px;
+    width: 100%;
+    background-color: #4aaaa5;
+    text-align: center;
+}
+
+
